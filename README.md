@@ -12,4 +12,5 @@ PokerGame，Assignment from COMP2150
 ### 运行
 
 javac PokerGame.java
+
 java PokerGame
